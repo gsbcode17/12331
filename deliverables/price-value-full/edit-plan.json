@@ -1,0 +1,2316 @@
+{
+  "duration": 1079.24,
+  "jobs": [
+    {
+      "part": 1,
+      "from": 0.0,
+      "to": 1.64,
+      "mode": "face",
+      "detail": "Владислав Семенченко | Цена и ценность",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/000.mp4",
+      "duration": 1.64,
+      "index": 0,
+      "output_start": 0
+    },
+    {
+      "part": 1,
+      "from": 4.4,
+      "to": 10.4,
+      "mode": "face",
+      "detail": "Владислав Семенченко | Цена и ценность",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/001.mp4",
+      "duration": 6.0,
+      "index": 1,
+      "output_start": 1.64
+    },
+    {
+      "part": 1,
+      "from": 10.4,
+      "to": 17.2,
+      "mode": "note",
+      "detail": "eps",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/002.mp4",
+      "duration": 6.8,
+      "index": 2,
+      "output_start": 7.64
+    },
+    {
+      "part": 1,
+      "from": 17.2,
+      "to": 24.48,
+      "mode": "note",
+      "detail": "hook",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/003.mp4",
+      "duration": 7.28,
+      "index": 3,
+      "output_start": 14.44
+    },
+    {
+      "part": 1,
+      "from": 32.4,
+      "to": 35.4,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/004.mp4",
+      "duration": 3.0,
+      "index": 4,
+      "output_start": 21.72
+    },
+    {
+      "part": 1,
+      "from": 35.4,
+      "to": 41.88,
+      "mode": "note",
+      "detail": "price",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/005.mp4",
+      "duration": 6.48,
+      "index": 5,
+      "output_start": 24.72
+    },
+    {
+      "part": 1,
+      "from": 42.2,
+      "to": 43.72,
+      "mode": "note",
+      "detail": "price",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/006.mp4",
+      "duration": 1.52,
+      "index": 6,
+      "output_start": 31.2
+    },
+    {
+      "part": 1,
+      "from": 44.08,
+      "to": 46.8,
+      "mode": "note",
+      "detail": "price",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/007.mp4",
+      "duration": 2.72,
+      "index": 7,
+      "output_start": 32.72
+    },
+    {
+      "part": 1,
+      "from": 46.8,
+      "to": 46.88,
+      "mode": "note",
+      "detail": "price",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/008.mp4",
+      "duration": 0.08,
+      "index": 8,
+      "output_start": 35.44
+    },
+    {
+      "part": 1,
+      "from": 51.2,
+      "to": 63.32,
+      "mode": "note",
+      "detail": "summary",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/009.mp4",
+      "duration": 12.12,
+      "index": 9,
+      "output_start": 35.52
+    },
+    {
+      "part": 1,
+      "from": 65.96,
+      "to": 68.36,
+      "mode": "note",
+      "detail": "summary",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/010.mp4",
+      "duration": 2.4,
+      "index": 10,
+      "output_start": 47.64
+    },
+    {
+      "part": 1,
+      "from": 68.96,
+      "to": 70.2,
+      "mode": "note",
+      "detail": "summary",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/011.mp4",
+      "duration": 1.24,
+      "index": 11,
+      "output_start": 50.04
+    },
+    {
+      "part": 1,
+      "from": 70.52,
+      "to": 76.72,
+      "mode": "note",
+      "detail": "summary",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/012.mp4",
+      "duration": 6.2,
+      "index": 12,
+      "output_start": 51.28
+    },
+    {
+      "part": 1,
+      "from": 131.32,
+      "to": 138.8,
+      "mode": "note",
+      "detail": "hook",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/013.mp4",
+      "duration": 7.48,
+      "index": 13,
+      "output_start": 57.48
+    },
+    {
+      "part": 1,
+      "from": 140.32,
+      "to": 141.24,
+      "mode": "note",
+      "detail": "hook",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/014.mp4",
+      "duration": 0.92,
+      "index": 14,
+      "output_start": 64.96
+    },
+    {
+      "part": 1,
+      "from": 145.52,
+      "to": 148.04,
+      "mode": "note",
+      "detail": "eps",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/015.mp4",
+      "duration": 2.52,
+      "index": 15,
+      "output_start": 65.88
+    },
+    {
+      "part": 1,
+      "from": 149.32,
+      "to": 151.76,
+      "mode": "note",
+      "detail": "eps",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/016.mp4",
+      "duration": 2.44,
+      "index": 16,
+      "output_start": 68.4
+    },
+    {
+      "part": 1,
+      "from": 151.76,
+      "to": 151.96,
+      "mode": "note",
+      "detail": "profit",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/017.mp4",
+      "duration": 0.2,
+      "index": 17,
+      "output_start": 70.84
+    },
+    {
+      "part": 1,
+      "from": 152.24,
+      "to": 163.6,
+      "mode": "note",
+      "detail": "profit",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/018.mp4",
+      "duration": 11.36,
+      "index": 18,
+      "output_start": 71.04
+    },
+    {
+      "part": 1,
+      "from": 163.6,
+      "to": 177.08,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/019.mp4",
+      "duration": 13.48,
+      "index": 19,
+      "output_start": 82.4
+    },
+    {
+      "part": 1,
+      "from": 177.08,
+      "to": 188.36,
+      "mode": "note",
+      "detail": "risk",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/020.mp4",
+      "duration": 11.28,
+      "index": 20,
+      "output_start": 95.88
+    },
+    {
+      "part": 1,
+      "from": 188.36,
+      "to": 191.68,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/021.mp4",
+      "duration": 3.32,
+      "index": 21,
+      "output_start": 107.16
+    },
+    {
+      "part": 1,
+      "from": 191.96,
+      "to": 193.76,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/022.mp4",
+      "duration": 1.8,
+      "index": 22,
+      "output_start": 110.48
+    },
+    {
+      "part": 1,
+      "from": 193.96,
+      "to": 194.2,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/023.mp4",
+      "duration": 0.24,
+      "index": 23,
+      "output_start": 112.28
+    },
+    {
+      "part": 1,
+      "from": 194.56,
+      "to": 198.56,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/024.mp4",
+      "duration": 4.0,
+      "index": 24,
+      "output_start": 112.52
+    },
+    {
+      "part": 1,
+      "from": 199.96,
+      "to": 205.28,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/025.mp4",
+      "duration": 5.32,
+      "index": 25,
+      "output_start": 116.52
+    },
+    {
+      "part": 1,
+      "from": 214.64,
+      "to": 219.12,
+      "mode": "note",
+      "detail": "multiple",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/026.mp4",
+      "duration": 4.48,
+      "index": 26,
+      "output_start": 121.84
+    },
+    {
+      "part": 1,
+      "from": 219.6,
+      "to": 224.36,
+      "mode": "note",
+      "detail": "multiple",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/027.mp4",
+      "duration": 4.76,
+      "index": 27,
+      "output_start": 126.32
+    },
+    {
+      "part": 1,
+      "from": 258.68,
+      "to": 268.28,
+      "mode": "note",
+      "detail": "multiple",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/028.mp4",
+      "duration": 9.6,
+      "index": 28,
+      "output_start": 131.08
+    },
+    {
+      "part": 1,
+      "from": 272.32,
+      "to": 281.12,
+      "mode": "note",
+      "detail": "example",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/029.mp4",
+      "duration": 8.8,
+      "index": 29,
+      "output_start": 140.68
+    },
+    {
+      "part": 1,
+      "from": 285.48,
+      "to": 289.2,
+      "mode": "note",
+      "detail": "example",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/030.mp4",
+      "duration": 3.72,
+      "index": 30,
+      "output_start": 149.48
+    },
+    {
+      "part": 1,
+      "from": 289.2,
+      "to": 296.04,
+      "mode": "note",
+      "detail": "years",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/031.mp4",
+      "duration": 6.84,
+      "index": 31,
+      "output_start": 153.2
+    },
+    {
+      "part": 1,
+      "from": 296.72,
+      "to": 299.56,
+      "mode": "note",
+      "detail": "years",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/032.mp4",
+      "duration": 2.84,
+      "index": 32,
+      "output_start": 160.04
+    },
+    {
+      "part": 1,
+      "from": 299.84,
+      "to": 305.72,
+      "mode": "note",
+      "detail": "years",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/033.mp4",
+      "duration": 5.88,
+      "index": 33,
+      "output_start": 162.88
+    },
+    {
+      "part": 1,
+      "from": 321.0,
+      "to": 326.52,
+      "mode": "note",
+      "detail": "example",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/034.mp4",
+      "duration": 5.52,
+      "index": 34,
+      "output_start": 168.76
+    },
+    {
+      "part": 1,
+      "from": 326.92,
+      "to": 333.76,
+      "mode": "note",
+      "detail": "example",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/035.mp4",
+      "duration": 6.84,
+      "index": 35,
+      "output_start": 174.28
+    },
+    {
+      "part": 1,
+      "from": 339.6,
+      "to": 345.28,
+      "mode": "note",
+      "detail": "example",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/036.mp4",
+      "duration": 5.68,
+      "index": 36,
+      "output_start": 181.12
+    },
+    {
+      "part": 3,
+      "from": 10.4,
+      "to": 18.0,
+      "mode": "note",
+      "detail": "subscribe",
+      "animate": true,
+      "duration": 7.6,
+      "index": 37,
+      "output_start": 186.8
+    },
+    {
+      "part": 3,
+      "from": 19.0,
+      "to": 23.16,
+      "mode": "note",
+      "detail": "subscribe",
+      "animate": false,
+      "duration": 4.16,
+      "index": 38,
+      "output_start": 194.4
+    },
+    {
+      "part": 1,
+      "from": 349.2,
+      "to": 356.4,
+      "mode": "note",
+      "detail": "company",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/037.mp4",
+      "duration": 7.2,
+      "index": 39,
+      "output_start": 198.56
+    },
+    {
+      "part": 1,
+      "from": 361.12,
+      "to": 374.32,
+      "mode": "note",
+      "detail": "company",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/038.mp4",
+      "duration": 13.2,
+      "index": 40,
+      "output_start": 205.76
+    },
+    {
+      "part": 1,
+      "from": 381.92,
+      "to": 394.32,
+      "mode": "screen",
+      "detail": "price",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/039.mp4",
+      "duration": 12.4,
+      "index": 41,
+      "output_start": 218.96
+    },
+    {
+      "part": 1,
+      "from": 398.8,
+      "to": 405.8,
+      "mode": "screen",
+      "detail": "valuation",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/040.mp4",
+      "duration": 7.0,
+      "index": 42,
+      "output_start": 231.36
+    },
+    {
+      "part": 1,
+      "from": 407.76,
+      "to": 411.2,
+      "mode": "screen",
+      "detail": "valuation",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/041.mp4",
+      "duration": 3.44,
+      "index": 43,
+      "output_start": 238.36
+    },
+    {
+      "part": 1,
+      "from": 412.16,
+      "to": 413.68,
+      "mode": "screen",
+      "detail": "valuation",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/042.mp4",
+      "duration": 1.52,
+      "index": 44,
+      "output_start": 241.8
+    },
+    {
+      "part": 1,
+      "from": 413.68,
+      "to": 425.0,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/043.mp4",
+      "duration": 11.32,
+      "index": 45,
+      "output_start": 243.32
+    },
+    {
+      "part": 1,
+      "from": 435.12,
+      "to": 437.04,
+      "mode": "screen",
+      "detail": "full",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/044.mp4",
+      "duration": 1.92,
+      "index": 46,
+      "output_start": 254.64
+    },
+    {
+      "part": 1,
+      "from": 437.88,
+      "to": 450.88,
+      "mode": "screen",
+      "detail": "full",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/045.mp4",
+      "duration": 13.0,
+      "index": 47,
+      "output_start": 256.56
+    },
+    {
+      "part": 1,
+      "from": 450.88,
+      "to": 459.52,
+      "mode": "screen",
+      "detail": "full",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/046.mp4",
+      "duration": 8.64,
+      "index": 48,
+      "output_start": 269.56
+    },
+    {
+      "part": 1,
+      "from": 469.28,
+      "to": 476.64,
+      "mode": "screen",
+      "detail": "chart",
+      "animate": true,
+      "zoom": 1,
+      "duration": 7.36,
+      "index": 49,
+      "output_start": 278.2
+    },
+    {
+      "part": 1,
+      "from": 476.64,
+      "to": 485.2,
+      "mode": "note",
+      "detail": "epshistory",
+      "animate": true,
+      "zoom": 1,
+      "duration": 8.56,
+      "index": 50,
+      "output_start": 285.56
+    },
+    {
+      "part": 1,
+      "from": 485.2,
+      "to": 489.8,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "zoom": 1,
+      "duration": 4.6,
+      "index": 51,
+      "output_start": 294.12
+    },
+    {
+      "part": 1,
+      "from": 489.8,
+      "to": 491.64,
+      "mode": "note",
+      "detail": "disclaimer",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/048.mp4",
+      "duration": 1.84,
+      "index": 52,
+      "output_start": 298.72
+    },
+    {
+      "part": 1,
+      "from": 492.68,
+      "to": 495.8,
+      "mode": "note",
+      "detail": "disclaimer",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/049.mp4",
+      "duration": 3.12,
+      "index": 53,
+      "output_start": 300.56
+    },
+    {
+      "part": 1,
+      "from": 497.28,
+      "to": 502.88,
+      "mode": "note",
+      "detail": "disclaimer",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/050.mp4",
+      "duration": 5.6,
+      "index": 54,
+      "output_start": 303.68
+    },
+    {
+      "part": 1,
+      "from": 502.88,
+      "to": 509.8,
+      "mode": "note",
+      "detail": "education",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/051.mp4",
+      "duration": 6.92,
+      "index": 55,
+      "output_start": 309.28
+    },
+    {
+      "part": 1,
+      "from": 510.08,
+      "to": 512.24,
+      "mode": "note",
+      "detail": "education",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/052.mp4",
+      "duration": 2.16,
+      "index": 56,
+      "output_start": 316.2
+    },
+    {
+      "part": 1,
+      "from": 513.4,
+      "to": 513.6,
+      "mode": "note",
+      "detail": "education",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/053.mp4",
+      "duration": 0.2,
+      "index": 57,
+      "output_start": 318.36
+    },
+    {
+      "part": 1,
+      "from": 514.4,
+      "to": 516.0,
+      "mode": "note",
+      "detail": "education",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/054.mp4",
+      "duration": 1.6,
+      "index": 58,
+      "output_start": 318.56
+    },
+    {
+      "part": 1,
+      "from": 516.0,
+      "to": 528.72,
+      "mode": "note",
+      "detail": "homework",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/055.mp4",
+      "duration": 12.72,
+      "index": 59,
+      "output_start": 320.16
+    },
+    {
+      "part": 1,
+      "from": 533.96,
+      "to": 540.08,
+      "mode": "note",
+      "detail": "spgi",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/056.mp4",
+      "duration": 6.12,
+      "index": 60,
+      "output_start": 332.88
+    },
+    {
+      "part": 1,
+      "from": 542.64,
+      "to": 547.2,
+      "mode": "note",
+      "detail": "spgi",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/057.mp4",
+      "duration": 4.56,
+      "index": 61,
+      "output_start": 339.0
+    },
+    {
+      "part": 1,
+      "from": 547.2,
+      "to": 552.52,
+      "mode": "note",
+      "detail": "spgi",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/058.mp4",
+      "duration": 5.32,
+      "index": 62,
+      "output_start": 343.56
+    },
+    {
+      "part": 1,
+      "from": 560.0,
+      "to": 562.16,
+      "mode": "screen",
+      "detail": "valuation",
+      "animate": true,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/059.mp4",
+      "duration": 2.16,
+      "index": 63,
+      "output_start": 348.88
+    },
+    {
+      "part": 1,
+      "from": 566.2,
+      "to": 570.88,
+      "mode": "screen",
+      "detail": "valuation",
+      "animate": false,
+      "zoom": 0,
+      "reuse": "/workspace/longform-edit/v2/chunks/060.mp4",
+      "duration": 4.68,
+      "index": 64,
+      "output_start": 351.04
+    },
+    {
+      "part": 1,
+      "from": 574.96,
+      "to": 590.0,
+      "mode": "screen",
+      "detail": "forward",
+      "animate": true,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/061.mp4",
+      "duration": 15.04,
+      "index": 65,
+      "output_start": 355.72
+    },
+    {
+      "part": 1,
+      "from": 591.84,
+      "to": 601.08,
+      "mode": "screen",
+      "detail": "forward",
+      "animate": false,
+      "zoom": 1,
+      "reuse": "/workspace/longform-edit/v2/chunks/062.mp4",
+      "duration": 9.24,
+      "index": 66,
+      "output_start": 370.76
+    },
+    {
+      "part": 1,
+      "from": 602.72,
+      "to": 616.96,
+      "mode": "screen",
+      "detail": "full",
+      "animate": true,
+      "zoom": 0,
+      "duration": 14.24,
+      "index": 67,
+      "output_start": 380.0
+    },
+    {
+      "part": 2,
+      "from": 13.48,
+      "to": 17.76,
+      "mode": "note",
+      "detail": "growth",
+      "animate": true,
+      "duration": 4.28,
+      "index": 68,
+      "output_start": 394.24
+    },
+    {
+      "part": 2,
+      "from": 18.24,
+      "to": 28.32,
+      "mode": "note",
+      "detail": "growth",
+      "animate": false,
+      "duration": 10.08,
+      "index": 69,
+      "output_start": 398.52
+    },
+    {
+      "part": 2,
+      "from": 40.2,
+      "to": 45.0,
+      "mode": "note",
+      "detail": "quality",
+      "animate": false,
+      "duration": 4.8,
+      "index": 71,
+      "output_start": 408.6
+    },
+    {
+      "part": 2,
+      "from": 45.44,
+      "to": 50.48,
+      "mode": "note",
+      "detail": "quality",
+      "animate": false,
+      "duration": 5.04,
+      "index": 72,
+      "output_start": 413.4
+    },
+    {
+      "part": 2,
+      "from": 51.76,
+      "to": 57.4,
+      "mode": "note",
+      "detail": "buyback-base",
+      "animate": true,
+      "duration": 5.64,
+      "index": 73,
+      "output_start": 418.44
+    },
+    {
+      "part": 2,
+      "from": 57.4,
+      "to": 58.4,
+      "mode": "note",
+      "detail": "buyback",
+      "animate": true,
+      "duration": 1.0,
+      "index": 74,
+      "output_start": 424.08
+    },
+    {
+      "part": 2,
+      "from": 59.76,
+      "to": 60.64,
+      "mode": "note",
+      "detail": "buyback",
+      "animate": false,
+      "duration": 0.88,
+      "index": 75,
+      "output_start": 425.08
+    },
+    {
+      "part": 2,
+      "from": 61.8,
+      "to": 69.48,
+      "mode": "note",
+      "detail": "buyback",
+      "animate": false,
+      "duration": 7.68,
+      "index": 76,
+      "output_start": 425.96
+    },
+    {
+      "part": 2,
+      "from": 70.0,
+      "to": 71.88,
+      "mode": "note",
+      "detail": "buyback",
+      "animate": false,
+      "duration": 1.88,
+      "index": 77,
+      "output_start": 433.64
+    },
+    {
+      "part": 2,
+      "from": 72.24,
+      "to": 75.56,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "duration": 3.32,
+      "index": 78,
+      "output_start": 435.52
+    },
+    {
+      "part": 2,
+      "from": 75.92,
+      "to": 85.76,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 9.84,
+      "index": 79,
+      "output_start": 438.84
+    },
+    {
+      "part": 2,
+      "from": 86.24,
+      "to": 88.92,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 2.68,
+      "index": 80,
+      "output_start": 448.68
+    },
+    {
+      "part": 2,
+      "from": 90.0,
+      "to": 102.08,
+      "mode": "note",
+      "detail": "quality",
+      "animate": true,
+      "duration": 12.08,
+      "index": 81,
+      "output_start": 451.36
+    },
+    {
+      "part": 2,
+      "from": 103.04,
+      "to": 108.28,
+      "mode": "note",
+      "detail": "moat",
+      "animate": true,
+      "duration": 5.24,
+      "index": 82,
+      "output_start": 463.44
+    },
+    {
+      "part": 2,
+      "from": 108.68,
+      "to": 118.32,
+      "mode": "note",
+      "detail": "moat",
+      "animate": false,
+      "duration": 9.64,
+      "index": 83,
+      "output_start": 468.68
+    },
+    {
+      "part": 2,
+      "from": 118.32,
+      "to": 120.52,
+      "mode": "note",
+      "detail": "competition",
+      "animate": true,
+      "duration": 2.2,
+      "index": 84,
+      "output_start": 478.32
+    },
+    {
+      "part": 2,
+      "from": 121.92,
+      "to": 151.2,
+      "mode": "note",
+      "detail": "competition",
+      "animate": false,
+      "duration": 29.28,
+      "index": 85,
+      "output_start": 480.52
+    },
+    {
+      "part": 2,
+      "from": 151.2,
+      "to": 166.68,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "duration": 15.48,
+      "index": 86,
+      "output_start": 509.8
+    },
+    {
+      "part": 2,
+      "from": 167.04,
+      "to": 168.0,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 0.96,
+      "index": 87,
+      "output_start": 525.28
+    },
+    {
+      "part": 2,
+      "from": 168.0,
+      "to": 176.96,
+      "mode": "note",
+      "detail": "moat",
+      "animate": true,
+      "duration": 8.96,
+      "index": 88,
+      "output_start": 526.24
+    },
+    {
+      "part": 2,
+      "from": 177.84,
+      "to": 182.2,
+      "mode": "note",
+      "detail": "moat",
+      "animate": false,
+      "duration": 4.36,
+      "index": 89,
+      "output_start": 535.2
+    },
+    {
+      "part": 2,
+      "from": 182.2,
+      "to": 189.28,
+      "mode": "note",
+      "detail": "comment",
+      "animate": true,
+      "duration": 7.08,
+      "index": 90,
+      "output_start": 539.56
+    },
+    {
+      "part": 2,
+      "from": 189.28,
+      "to": 226.0,
+      "mode": "note",
+      "detail": "legal",
+      "animate": true,
+      "duration": 36.72,
+      "index": 91,
+      "output_start": 546.64
+    },
+    {
+      "part": 2,
+      "from": 226.0,
+      "to": 249.0,
+      "mode": "note",
+      "detail": "network",
+      "animate": true,
+      "duration": 23.0,
+      "index": 92,
+      "output_start": 583.36
+    },
+    {
+      "part": 2,
+      "from": 249.0,
+      "to": 255.96,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "duration": 6.96,
+      "index": 93,
+      "output_start": 606.36
+    },
+    {
+      "part": 2,
+      "from": 257.04,
+      "to": 264.28,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 7.24,
+      "index": 94,
+      "output_start": 613.32
+    },
+    {
+      "part": 3,
+      "from": 24.8,
+      "to": 41.12,
+      "mode": "note",
+      "detail": "club",
+      "animate": true,
+      "duration": 16.32,
+      "index": 95,
+      "output_start": 620.56
+    },
+    {
+      "part": 3,
+      "from": 42.24,
+      "to": 43.92,
+      "mode": "note",
+      "detail": "club",
+      "animate": false,
+      "duration": 1.68,
+      "index": 96,
+      "output_start": 636.88
+    },
+    {
+      "part": 2,
+      "from": 280.0,
+      "to": 286.76,
+      "mode": "note",
+      "detail": "weights",
+      "animate": true,
+      "duration": 6.76,
+      "index": 97,
+      "output_start": 638.56
+    },
+    {
+      "part": 2,
+      "from": 289.52,
+      "to": 305.52,
+      "mode": "note",
+      "detail": "weights",
+      "animate": false,
+      "duration": 16.0,
+      "index": 98,
+      "output_start": 645.32
+    },
+    {
+      "part": 2,
+      "from": 305.52,
+      "to": 318.16,
+      "mode": "note",
+      "detail": "quality",
+      "animate": true,
+      "duration": 12.64,
+      "index": 99,
+      "output_start": 661.32
+    },
+    {
+      "part": 2,
+      "from": 320.72,
+      "to": 329.52,
+      "mode": "note",
+      "detail": "quality",
+      "animate": false,
+      "duration": 8.8,
+      "index": 100,
+      "output_start": 673.96
+    },
+    {
+      "part": 2,
+      "from": 329.52,
+      "to": 344.96,
+      "mode": "note",
+      "detail": "equation",
+      "animate": true,
+      "duration": 15.44,
+      "index": 101,
+      "output_start": 682.76
+    },
+    {
+      "part": 2,
+      "from": 345.28,
+      "to": 354.52,
+      "mode": "note",
+      "detail": "equation",
+      "animate": false,
+      "duration": 9.24,
+      "index": 102,
+      "output_start": 698.2
+    },
+    {
+      "part": 2,
+      "from": 354.88,
+      "to": 359.28,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "duration": 4.4,
+      "index": 103,
+      "output_start": 707.44
+    },
+    {
+      "part": 2,
+      "from": 359.64,
+      "to": 359.76,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 0.12,
+      "index": 104,
+      "output_start": 711.84
+    },
+    {
+      "part": 2,
+      "from": 362.96,
+      "to": 365.52,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 2.56,
+      "index": 105,
+      "output_start": 711.96
+    },
+    {
+      "part": 2,
+      "from": 366.08,
+      "to": 367.0,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 0.92,
+      "index": 106,
+      "output_start": 714.52
+    },
+    {
+      "part": 2,
+      "from": 367.0,
+      "to": 382.44,
+      "mode": "note",
+      "detail": "operations",
+      "animate": true,
+      "duration": 15.44,
+      "index": 107,
+      "output_start": 715.44
+    },
+    {
+      "part": 2,
+      "from": 382.76,
+      "to": 388.84,
+      "mode": "note",
+      "detail": "operations",
+      "animate": false,
+      "duration": 6.08,
+      "index": 108,
+      "output_start": 730.88
+    },
+    {
+      "part": 2,
+      "from": 395.72,
+      "to": 400.08,
+      "mode": "note",
+      "detail": "operations",
+      "animate": false,
+      "duration": 4.36,
+      "index": 109,
+      "output_start": 736.96
+    },
+    {
+      "part": 2,
+      "from": 401.68,
+      "to": 402.56,
+      "mode": "note",
+      "detail": "operations",
+      "animate": false,
+      "duration": 0.88,
+      "index": 110,
+      "output_start": 741.32
+    },
+    {
+      "part": 2,
+      "from": 403.56,
+      "to": 407.12,
+      "mode": "note",
+      "detail": "operations",
+      "animate": false,
+      "duration": 3.56,
+      "index": 111,
+      "output_start": 742.2
+    },
+    {
+      "part": 2,
+      "from": 407.96,
+      "to": 408.0,
+      "mode": "note",
+      "detail": "operations",
+      "animate": false,
+      "duration": 0.04,
+      "index": 112,
+      "output_start": 745.76
+    },
+    {
+      "part": 2,
+      "from": 408.0,
+      "to": 413.12,
+      "mode": "note",
+      "detail": "compound",
+      "animate": true,
+      "duration": 5.12,
+      "index": 113,
+      "output_start": 745.8
+    },
+    {
+      "part": 2,
+      "from": 413.44,
+      "to": 422.64,
+      "mode": "note",
+      "detail": "compound",
+      "animate": false,
+      "duration": 9.2,
+      "index": 114,
+      "output_start": 750.92
+    },
+    {
+      "part": 2,
+      "from": 435.76,
+      "to": 437.52,
+      "mode": "note",
+      "detail": "sentiment",
+      "animate": true,
+      "duration": 1.76,
+      "index": 115,
+      "output_start": 760.12
+    },
+    {
+      "part": 2,
+      "from": 440.88,
+      "to": 442.8,
+      "mode": "note",
+      "detail": "sentiment",
+      "animate": false,
+      "duration": 1.92,
+      "index": 116,
+      "output_start": 761.88
+    },
+    {
+      "part": 2,
+      "from": 443.16,
+      "to": 450.8,
+      "mode": "note",
+      "detail": "sentiment",
+      "animate": false,
+      "duration": 7.64,
+      "index": 117,
+      "output_start": 763.8
+    },
+    {
+      "part": 2,
+      "from": 486.72,
+      "to": 490.28,
+      "mode": "note",
+      "detail": "choice",
+      "animate": true,
+      "duration": 3.56,
+      "index": 118,
+      "output_start": 771.44
+    },
+    {
+      "part": 2,
+      "from": 492.04,
+      "to": 494.64,
+      "mode": "note",
+      "detail": "choice",
+      "animate": false,
+      "duration": 2.6,
+      "index": 119,
+      "output_start": 775.0
+    },
+    {
+      "part": 2,
+      "from": 495.32,
+      "to": 505.16,
+      "mode": "note",
+      "detail": "choice",
+      "animate": false,
+      "duration": 9.84,
+      "index": 120,
+      "output_start": 777.6
+    },
+    {
+      "part": 2,
+      "from": 505.72,
+      "to": 510.64,
+      "mode": "note",
+      "detail": "choice",
+      "animate": false,
+      "duration": 4.92,
+      "index": 121,
+      "output_start": 787.44
+    },
+    {
+      "part": 2,
+      "from": 511.12,
+      "to": 515.44,
+      "mode": "note",
+      "detail": "choice",
+      "animate": false,
+      "duration": 4.32,
+      "index": 122,
+      "output_start": 792.36
+    },
+    {
+      "part": 2,
+      "from": 515.88,
+      "to": 516.0,
+      "mode": "note",
+      "detail": "choice",
+      "animate": false,
+      "duration": 0.12,
+      "index": 123,
+      "output_start": 796.68
+    },
+    {
+      "part": 2,
+      "from": 516.0,
+      "to": 521.6,
+      "mode": "note",
+      "detail": "catchup",
+      "animate": true,
+      "duration": 5.6,
+      "index": 124,
+      "output_start": 796.8
+    },
+    {
+      "part": 2,
+      "from": 522.48,
+      "to": 529.0,
+      "mode": "note",
+      "detail": "catchup",
+      "animate": false,
+      "duration": 6.52,
+      "index": 125,
+      "output_start": 802.4
+    },
+    {
+      "part": 2,
+      "from": 529.6,
+      "to": 531.48,
+      "mode": "note",
+      "detail": "catchup",
+      "animate": false,
+      "duration": 1.88,
+      "index": 126,
+      "output_start": 808.92
+    },
+    {
+      "part": 2,
+      "from": 531.88,
+      "to": 532.0,
+      "mode": "note",
+      "detail": "catchup",
+      "animate": false,
+      "duration": 0.12,
+      "index": 127,
+      "output_start": 810.8
+    },
+    {
+      "part": 2,
+      "from": 532.0,
+      "to": 553.52,
+      "mode": "note",
+      "detail": "businessprice",
+      "animate": true,
+      "duration": 21.52,
+      "index": 128,
+      "output_start": 810.92
+    },
+    {
+      "part": 2,
+      "from": 553.52,
+      "to": 555.6,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "duration": 2.08,
+      "index": 129,
+      "output_start": 832.44
+    },
+    {
+      "part": 2,
+      "from": 559.28,
+      "to": 559.68,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 0.4,
+      "index": 130,
+      "output_start": 834.52
+    },
+    {
+      "part": 2,
+      "from": 561.04,
+      "to": 563.6,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 2.56,
+      "index": 131,
+      "output_start": 834.92
+    },
+    {
+      "part": 2,
+      "from": 564.64,
+      "to": 577.88,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 13.24,
+      "index": 132,
+      "output_start": 837.48
+    },
+    {
+      "part": 2,
+      "from": 578.52,
+      "to": 580.8,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 2.28,
+      "index": 133,
+      "output_start": 850.72
+    },
+    {
+      "part": 2,
+      "from": 581.28,
+      "to": 581.8,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 0.52,
+      "index": 134,
+      "output_start": 853.0
+    },
+    {
+      "part": 2,
+      "from": 607.52,
+      "to": 608.72,
+      "mode": "note",
+      "detail": "compression",
+      "animate": true,
+      "duration": 1.2,
+      "index": 135,
+      "output_start": 853.52
+    },
+    {
+      "part": 2,
+      "from": 609.12,
+      "to": 611.6,
+      "mode": "note",
+      "detail": "compression",
+      "animate": false,
+      "duration": 2.48,
+      "index": 136,
+      "output_start": 854.72
+    },
+    {
+      "part": 2,
+      "from": 613.36,
+      "to": 629.8,
+      "mode": "note",
+      "detail": "compression",
+      "animate": false,
+      "duration": 16.44,
+      "index": 137,
+      "output_start": 857.2
+    },
+    {
+      "part": 2,
+      "from": 630.44,
+      "to": 632.4,
+      "mode": "note",
+      "detail": "compression",
+      "animate": false,
+      "duration": 1.96,
+      "index": 138,
+      "output_start": 873.64
+    },
+    {
+      "part": 2,
+      "from": 636.28,
+      "to": 643.28,
+      "mode": "screen",
+      "detail": "full",
+      "animate": true,
+      "duration": 7.0,
+      "index": 139,
+      "output_start": 875.6
+    },
+    {
+      "part": 2,
+      "from": 644.64,
+      "to": 655.96,
+      "mode": "screen",
+      "detail": "full",
+      "animate": false,
+      "duration": 11.32,
+      "index": 140,
+      "output_start": 882.6
+    },
+    {
+      "part": 2,
+      "from": 659.84,
+      "to": 666.04,
+      "mode": "screen",
+      "detail": "full",
+      "animate": true,
+      "duration": 6.2,
+      "index": 141,
+      "output_start": 893.92
+    },
+    {
+      "part": 2,
+      "from": 673.16,
+      "to": 678.0,
+      "mode": "screen",
+      "detail": "full",
+      "animate": false,
+      "duration": 4.84,
+      "index": 142,
+      "output_start": 900.12
+    },
+    {
+      "part": 2,
+      "from": 678.0,
+      "to": 681.16,
+      "mode": "note",
+      "detail": "moat",
+      "animate": true,
+      "duration": 3.16,
+      "index": 143,
+      "output_start": 904.96
+    },
+    {
+      "part": 2,
+      "from": 682.96,
+      "to": 686.96,
+      "mode": "note",
+      "detail": "moat",
+      "animate": false,
+      "duration": 4.0,
+      "index": 144,
+      "output_start": 908.12
+    },
+    {
+      "part": 2,
+      "from": 688.32,
+      "to": 695.2,
+      "mode": "note",
+      "detail": "moat",
+      "animate": false,
+      "duration": 6.88,
+      "index": 145,
+      "output_start": 912.12
+    },
+    {
+      "part": 2,
+      "from": 695.2,
+      "to": 704.0,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "duration": 8.8,
+      "index": 146,
+      "output_start": 919.0
+    },
+    {
+      "part": 2,
+      "from": 704.0,
+      "to": 713.52,
+      "mode": "screen",
+      "detail": "full",
+      "animate": true,
+      "duration": 9.52,
+      "index": 147,
+      "output_start": 927.8
+    },
+    {
+      "part": 2,
+      "from": 714.96,
+      "to": 720.88,
+      "mode": "screen",
+      "detail": "full",
+      "animate": false,
+      "duration": 5.92,
+      "index": 148,
+      "output_start": 937.32
+    },
+    {
+      "part": 2,
+      "from": 761.08,
+      "to": 775.52,
+      "mode": "screen",
+      "detail": "chart",
+      "animate": true,
+      "duration": 14.44,
+      "index": 149,
+      "output_start": 943.24
+    },
+    {
+      "part": 2,
+      "from": 786.0,
+      "to": 791.8,
+      "mode": "screen",
+      "detail": "chart",
+      "animate": true,
+      "duration": 5.8,
+      "index": 150,
+      "output_start": 957.68
+    },
+    {
+      "part": 2,
+      "from": 810.32,
+      "to": 818.96,
+      "mode": "screen",
+      "detail": "chart",
+      "animate": true,
+      "duration": 8.64,
+      "index": 151,
+      "output_start": 963.48
+    },
+    {
+      "part": 2,
+      "from": 822.24,
+      "to": 831.76,
+      "mode": "screen",
+      "detail": "chart",
+      "animate": false,
+      "duration": 9.52,
+      "index": 152,
+      "output_start": 972.12
+    },
+    {
+      "part": 2,
+      "from": 833.12,
+      "to": 854.08,
+      "mode": "screen",
+      "detail": "chart",
+      "animate": true,
+      "duration": 20.96,
+      "index": 153,
+      "output_start": 981.64
+    },
+    {
+      "part": 2,
+      "from": 859.88,
+      "to": 860.96,
+      "mode": "screen",
+      "detail": "chart",
+      "animate": false,
+      "duration": 1.08,
+      "index": 154,
+      "output_start": 1002.6
+    },
+    {
+      "part": 2,
+      "from": 861.28,
+      "to": 863.4,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "duration": 2.12,
+      "index": 155,
+      "output_start": 1003.68
+    },
+    {
+      "part": 2,
+      "from": 865.04,
+      "to": 869.96,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 4.92,
+      "index": 156,
+      "output_start": 1005.8
+    },
+    {
+      "part": 2,
+      "from": 877.16,
+      "to": 884.76,
+      "mode": "face",
+      "detail": "",
+      "animate": false,
+      "duration": 7.6,
+      "index": 157,
+      "output_start": 1010.72
+    },
+    {
+      "part": 2,
+      "from": 891.88,
+      "to": 900.88,
+      "mode": "screen",
+      "detail": "full",
+      "animate": true,
+      "duration": 9.0,
+      "index": 159,
+      "output_start": 1018.32
+    },
+    {
+      "part": 2,
+      "from": 904.08,
+      "to": 941.28,
+      "mode": "screen",
+      "detail": "full",
+      "animate": true,
+      "duration": 37.2,
+      "index": 160,
+      "output_start": 1027.32
+    },
+    {
+      "part": 3,
+      "from": 78.08,
+      "to": 91.48,
+      "mode": "note",
+      "detail": "closing",
+      "animate": true,
+      "duration": 13.4,
+      "index": 161,
+      "output_start": 1064.52
+    },
+    {
+      "part": 2,
+      "from": 951.6,
+      "to": 952.92,
+      "mode": "note",
+      "detail": "closing",
+      "animate": false,
+      "duration": 1.32,
+      "index": 162,
+      "output_start": 1077.92
+    }
+  ],
+  "cuts2": [
+    [
+      0.0,
+      13.48,
+      "Повторный заход на стыке частей"
+    ],
+    [
+      17.76,
+      18.24,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      28.32,
+      39.6,
+      "Повторы вводной и определения качества роста; Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      39.68,
+      40.2,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      45.0,
+      45.44,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      50.48,
+      51.76,
+      "Повторная вводная"
+    ],
+    [
+      58.4,
+      59.76,
+      "Первый вариант числа перед исправлением"
+    ],
+    [
+      60.64,
+      61.8,
+      "Запинка «да, и у вас»"
+    ],
+    [
+      69.48,
+      70.0,
+      "Оговорка «миллион» перед суммой на акцию"
+    ],
+    [
+      71.88,
+      72.24,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      75.56,
+      75.92,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      85.76,
+      86.24,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      88.92,
+      90.0,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      102.08,
+      103.04,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      108.28,
+      108.68,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      120.52,
+      121.92,
+      "Повтор «высококонкурентных»"
+    ],
+    [
+      166.68,
+      167.04,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      176.96,
+      177.84,
+      "Повтор «про ров»"
+    ],
+    [
+      255.96,
+      257.04,
+      "Первое «глубоким» перед повтором"
+    ],
+    [
+      264.28,
+      280.0,
+      "Повторный рекламный заход заменён чистым CTA из третьей записи"
+    ],
+    [
+      286.76,
+      289.52,
+      "Сбившееся согласование перед объяснением"
+    ],
+    [
+      318.16,
+      320.72,
+      "Техническая вводная «бла-бла-бла»"
+    ],
+    [
+      344.96,
+      345.28,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      354.52,
+      354.88,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      359.28,
+      359.64,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      359.76,
+      362.96,
+      "Запинка «реально, реально, как бы»"
+    ],
+    [
+      365.52,
+      366.08,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      382.44,
+      382.76,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      388.84,
+      395.72,
+      "Повторные вставки «да, которые, да»"
+    ],
+    [
+      400.08,
+      401.68,
+      "Сокращение длинной паузы по звуковой волне; Повтор вопроса «легко ли»"
+    ],
+    [
+      402.56,
+      403.56,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      407.12,
+      407.96,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      413.12,
+      413.44,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      422.64,
+      435.76,
+      "Повтор объяснения сложности операционной работы"
+    ],
+    [
+      437.52,
+      440.88,
+      "Первое повторное определение мнения рынка; Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      442.8,
+      443.16,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      450.8,
+      486.72,
+      "Сокращение длинной паузы по звуковой волне; Повторный заход на высокий P/E и отступление перед чистым объяснением; Сокращение длинной паузы по звуковой волне; Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      490.28,
+      492.04,
+      "Вставка внутри условного предложения; Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      494.64,
+      495.32,
+      "Вставка «да»"
+    ],
+    [
+      505.16,
+      505.72,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      510.64,
+      511.12,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      515.44,
+      515.88,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      521.6,
+      522.48,
+      "Повтор слова о прибыли"
+    ],
+    [
+      529.0,
+      529.6,
+      "Запинка «все, весь»"
+    ],
+    [
+      531.48,
+      531.88,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      555.6,
+      559.28,
+      "Повтор похвалы бизнеса"
+    ],
+    [
+      559.68,
+      561.04,
+      "Первый повтор оценки инвестиции"
+    ],
+    [
+      563.6,
+      564.64,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      577.88,
+      578.52,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      580.8,
+      581.28,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      581.8,
+      607.52,
+      "Повтор уже объясненных двух вариантов ожидания; Сокращение длинной паузы по звуковой волне; Сокращение длинной паузы по звуковой волне; Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      608.72,
+      609.12,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      611.6,
+      613.36,
+      "Неудачный первый заход «будете готовы»"
+    ],
+    [
+      629.8,
+      630.44,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      632.4,
+      636.28,
+      "Сокращение длинной паузы по звуковой волне; Сбившаяся подводка к заключительному графику"
+    ],
+    [
+      643.28,
+      644.64,
+      "Повтор «который… которым»"
+    ],
+    [
+      655.96,
+      659.84,
+      "Сбившаяся подводка к сравнению P/E"
+    ],
+    [
+      666.04,
+      673.16,
+      "Первый сбившийся вариант объяснения ожиданий"
+    ],
+    [
+      681.16,
+      682.96,
+      "Повтор «рост продолжится»"
+    ],
+    [
+      686.96,
+      688.32,
+      "Повтор «глубокий ров»"
+    ],
+    [
+      713.52,
+      714.96,
+      "Первый неверный падеж перед повтором"
+    ],
+    [
+      720.88,
+      761.08,
+      "Загрузка графика, технические комментарии и повторные запуски; Сокращение длинной паузы по звуковой волне; Сокращение длинной паузы по звуковой волне; Сокращение длинной паузы по звуковой волне; Сокращение длинной паузы по звуковой волне; Сокращение длинной паузы по звуковой волне; Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      775.52,
+      786.0,
+      "Неудачная первая оценка среднего и повтор"
+    ],
+    [
+      791.8,
+      810.32,
+      "Повторный устный прикидочный расчёт"
+    ],
+    [
+      818.96,
+      822.24,
+      "Повтор «ниже средней исторической»"
+    ],
+    [
+      831.76,
+      833.12,
+      "Первый сбившийся заход"
+    ],
+    [
+      854.08,
+      859.88,
+      "Повтор выводов перед последней формулировкой"
+    ],
+    [
+      860.96,
+      861.28,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      863.4,
+      865.04,
+      "Повтор «торгуется»"
+    ],
+    [
+      869.96,
+      877.16,
+      "Сбившаяся вставка о DCF перед чистым выводом"
+    ],
+    [
+      884.76,
+      886.16,
+      "Повтор «темпы роста EPS»"
+    ],
+    [
+      886.24,
+      891.88,
+      "Повтор перехода в финансовые показатели; Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      900.88,
+      904.08,
+      "Техническая проверка показателя"
+    ],
+    [
+      941.28,
+      951.6,
+      "Повторный финальный CTA заменён третьей записью; Сокращение длинной паузы по звуковой волне"
+    ]
+  ],
+  "cuts3": [
+    [
+      7.84,
+      8.16,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      9.52,
+      10.08,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      18.0,
+      19.0,
+      "Неудачное «такая приколь…» перед приятным бонусом"
+    ],
+    [
+      23.24,
+      24.36,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      41.12,
+      42.24,
+      "Повтор «там мой портфель»"
+    ],
+    [
+      48.4,
+      49.28,
+      "Сокращение длинной паузы по звуковой волне"
+    ],
+    [
+      92.08,
+      93.76,
+      "Сокращение длинной паузы по звуковой волне"
+    ]
+  ],
+  "audio": "camera tracks only; screen audio excluded",
+  "join": "Part1 closes on its last unique explanation; Part2 starts at13.48 without repeated introduction",
+  "cta": "Three clean excerpts from part3 distributed after the first example, moat chapter and final lesson"
+}
