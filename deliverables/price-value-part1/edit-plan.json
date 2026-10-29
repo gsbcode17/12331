@@ -1,0 +1,484 @@
+{
+  "duration": 593.88,
+  "cuts": [
+    [
+      76.88,
+      131.32,
+      "Повтор вступительного вопроса и сбившаяся формулировка"
+    ],
+    [
+      138.8,
+      140.32,
+      "Оговорка «цифере»"
+    ],
+    [
+      224.36,
+      258.64,
+      "Неудачные заходы на определение мультипликатора"
+    ],
+    [
+      311.96,
+      321.0,
+      "Повторное сбившееся определение; Длинная пауза"
+    ],
+    [
+      345.28,
+      349.04,
+      "Повтор «как на года»"
+    ],
+    [
+      356.4,
+      361.12,
+      "Сбившийся заход на представление SPGI"
+    ],
+    [
+      374.32,
+      381.92,
+      "Повторный заход и настройка указателя"
+    ],
+    [
+      425.0,
+      435.12,
+      "Повтор перед конкретным примером"
+    ],
+    [
+      512.24,
+      513.4,
+      "Длинная пауза"
+    ],
+    [
+      528.72,
+      533.96,
+      "Повтор переходной фразы"
+    ],
+    [
+      570.88,
+      572.8,
+      "Реплика о стирании указателя"
+    ],
+    [
+      624.4,
+      625.36,
+      "Длинная пауза"
+    ],
+    [
+      701.12,
+      704.12,
+      "Повтор «от двух показателей»"
+    ]
+  ],
+  "jobs": [
+    {
+      "index": 0,
+      "from": 0.0,
+      "to": 10.4,
+      "duration": 10.4,
+      "mode": "face",
+      "detail": "Владислав Семенченко | Цена и ценность",
+      "animate": true,
+      "output_start": 0
+    },
+    {
+      "index": 1,
+      "from": 10.4,
+      "to": 17.2,
+      "duration": 6.8,
+      "mode": "note",
+      "detail": "eps",
+      "animate": true,
+      "output_start": 10.4
+    },
+    {
+      "index": 2,
+      "from": 17.2,
+      "to": 24.48,
+      "duration": 7.28,
+      "mode": "note",
+      "detail": "hook",
+      "animate": true,
+      "output_start": 17.2
+    },
+    {
+      "index": 3,
+      "from": 24.48,
+      "to": 35.4,
+      "duration": 10.92,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "output_start": 24.48
+    },
+    {
+      "index": 4,
+      "from": 35.4,
+      "to": 46.8,
+      "duration": 11.4,
+      "mode": "note",
+      "detail": "price",
+      "animate": true,
+      "output_start": 35.4
+    },
+    {
+      "index": 5,
+      "from": 46.8,
+      "to": 76.88,
+      "duration": 30.08,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "output_start": 46.8
+    },
+    {
+      "index": 6,
+      "from": 131.32,
+      "to": 138.8,
+      "duration": 7.48,
+      "mode": "note",
+      "detail": "hook",
+      "animate": false,
+      "output_start": 76.88
+    },
+    {
+      "index": 7,
+      "from": 140.32,
+      "to": 141.4,
+      "duration": 1.08,
+      "mode": "note",
+      "detail": "hook",
+      "animate": false,
+      "output_start": 84.36
+    },
+    {
+      "index": 8,
+      "from": 141.4,
+      "to": 151.76,
+      "duration": 10.36,
+      "mode": "note",
+      "detail": "eps",
+      "animate": true,
+      "output_start": 85.44
+    },
+    {
+      "index": 9,
+      "from": 151.76,
+      "to": 163.6,
+      "duration": 11.84,
+      "mode": "note",
+      "detail": "profit",
+      "animate": true,
+      "output_start": 95.8
+    },
+    {
+      "index": 10,
+      "from": 163.6,
+      "to": 177.08,
+      "duration": 13.48,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "output_start": 107.64
+    },
+    {
+      "index": 11,
+      "from": 177.08,
+      "to": 188.36,
+      "duration": 11.28,
+      "mode": "note",
+      "detail": "risk",
+      "animate": true,
+      "output_start": 121.12
+    },
+    {
+      "index": 12,
+      "from": 188.36,
+      "to": 214.64,
+      "duration": 26.28,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "output_start": 132.4
+    },
+    {
+      "index": 13,
+      "from": 214.64,
+      "to": 224.36,
+      "duration": 9.72,
+      "mode": "note",
+      "detail": "multiple",
+      "animate": true,
+      "output_start": 158.68
+    },
+    {
+      "index": 14,
+      "from": 258.64,
+      "to": 271.2,
+      "duration": 12.56,
+      "mode": "note",
+      "detail": "multiple",
+      "animate": false,
+      "output_start": 168.4
+    },
+    {
+      "index": 15,
+      "from": 271.2,
+      "to": 289.2,
+      "duration": 18.0,
+      "mode": "note",
+      "detail": "example",
+      "animate": true,
+      "output_start": 180.96
+    },
+    {
+      "index": 16,
+      "from": 289.2,
+      "to": 311.96,
+      "duration": 22.76,
+      "mode": "note",
+      "detail": "years",
+      "animate": true,
+      "output_start": 198.96
+    },
+    {
+      "index": 17,
+      "from": 321.0,
+      "to": 345.28,
+      "duration": 24.28,
+      "mode": "note",
+      "detail": "example",
+      "animate": false,
+      "output_start": 221.72
+    },
+    {
+      "index": 18,
+      "from": 349.04,
+      "to": 356.4,
+      "duration": 7.36,
+      "mode": "note",
+      "detail": "company",
+      "animate": true,
+      "output_start": 246.0
+    },
+    {
+      "index": 19,
+      "from": 361.12,
+      "to": 374.32,
+      "duration": 13.2,
+      "mode": "note",
+      "detail": "company",
+      "animate": false,
+      "output_start": 253.36
+    },
+    {
+      "index": 20,
+      "from": 381.92,
+      "to": 398.8,
+      "duration": 16.88,
+      "mode": "screen",
+      "detail": "price",
+      "animate": false,
+      "output_start": 266.56
+    },
+    {
+      "index": 21,
+      "from": 398.8,
+      "to": 413.68,
+      "duration": 14.88,
+      "mode": "screen",
+      "detail": "valuation",
+      "animate": true,
+      "output_start": 283.44
+    },
+    {
+      "index": 22,
+      "from": 413.68,
+      "to": 425.0,
+      "duration": 11.32,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "output_start": 298.32
+    },
+    {
+      "index": 23,
+      "from": 435.12,
+      "to": 450.88,
+      "duration": 15.76,
+      "mode": "screen",
+      "detail": "full",
+      "animate": true,
+      "output_start": 309.64
+    },
+    {
+      "index": 24,
+      "from": 450.88,
+      "to": 465.4,
+      "duration": 14.52,
+      "mode": "screen",
+      "detail": "full",
+      "animate": true,
+      "output_start": 325.4
+    },
+    {
+      "index": 25,
+      "from": 465.4,
+      "to": 489.8,
+      "duration": 24.4,
+      "mode": "screen",
+      "detail": "chart",
+      "animate": true,
+      "output_start": 339.92
+    },
+    {
+      "index": 26,
+      "from": 489.8,
+      "to": 512.24,
+      "duration": 22.44,
+      "mode": "face",
+      "detail": "Образовательный разбор | Не инвестиционная рекомендация",
+      "animate": true,
+      "output_start": 364.32
+    },
+    {
+      "index": 27,
+      "from": 513.4,
+      "to": 528.72,
+      "duration": 15.32,
+      "mode": "face",
+      "detail": "Образовательный разбор | Не инвестиционная рекомендация",
+      "animate": false,
+      "output_start": 386.76
+    },
+    {
+      "index": 28,
+      "from": 533.96,
+      "to": 547.2,
+      "duration": 13.24,
+      "mode": "note",
+      "detail": "spgi",
+      "animate": true,
+      "output_start": 402.08
+    },
+    {
+      "index": 29,
+      "from": 547.2,
+      "to": 555.8,
+      "duration": 8.6,
+      "mode": "note",
+      "detail": "spgi",
+      "animate": false,
+      "output_start": 415.32
+    },
+    {
+      "index": 30,
+      "from": 555.8,
+      "to": 570.88,
+      "duration": 15.08,
+      "mode": "screen",
+      "detail": "valuation",
+      "animate": true,
+      "output_start": 423.92
+    },
+    {
+      "index": 31,
+      "from": 572.8,
+      "to": 601.12,
+      "duration": 28.32,
+      "mode": "screen",
+      "detail": "forward",
+      "animate": false,
+      "output_start": 439.0
+    },
+    {
+      "index": 32,
+      "from": 601.12,
+      "to": 620.0,
+      "duration": 18.88,
+      "mode": "screen",
+      "detail": "full",
+      "animate": true,
+      "output_start": 467.32
+    },
+    {
+      "index": 33,
+      "from": 620.0,
+      "to": 624.4,
+      "duration": 4.4,
+      "mode": "face",
+      "detail": "Владислав Семенченко",
+      "animate": true,
+      "output_start": 486.2
+    },
+    {
+      "index": 34,
+      "from": 625.36,
+      "to": 656.0,
+      "duration": 30.64,
+      "mode": "face",
+      "detail": "Владислав Семенченко",
+      "animate": false,
+      "output_start": 490.6
+    },
+    {
+      "index": 35,
+      "from": 656.0,
+      "to": 672.48,
+      "duration": 16.48,
+      "mode": "note",
+      "detail": "cta",
+      "animate": true,
+      "output_start": 521.24
+    },
+    {
+      "index": 36,
+      "from": 672.48,
+      "to": 678.6,
+      "duration": 6.12,
+      "mode": "face",
+      "detail": "",
+      "animate": true,
+      "output_start": 537.72
+    },
+    {
+      "index": 37,
+      "from": 678.6,
+      "to": 701.12,
+      "duration": 22.52,
+      "mode": "note",
+      "detail": "growth",
+      "animate": true,
+      "output_start": 543.84
+    },
+    {
+      "index": 38,
+      "from": 704.12,
+      "to": 704.2,
+      "duration": 0.08,
+      "mode": "note",
+      "detail": "growth",
+      "animate": false,
+      "output_start": 566.36
+    },
+    {
+      "index": 39,
+      "from": 704.2,
+      "to": 724.88,
+      "duration": 20.68,
+      "mode": "note",
+      "detail": "quality",
+      "animate": true,
+      "output_start": 566.44
+    },
+    {
+      "index": 40,
+      "from": 724.88,
+      "to": 731.64,
+      "duration": 6.76,
+      "mode": "face",
+      "detail": "Цена и ценность | Продолжение разбора",
+      "animate": true,
+      "output_start": 587.12
+    }
+  ],
+  "sync_offset": 0,
+  "audio_source": "face-part1.mp4 only"
+}
