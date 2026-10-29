@@ -1,10 +1,16 @@
 # Новая полная версия и Reels
 
-Полная версия: 21:45, 1920×1080, 25 fps, H.264/AAC.
+Полная версия: 21:46, 1920×1080, 25 fps, H.264/AAC.
 
 Восстановлены полные объяснения и нормальные паузы; небольшой естественный сбой речи оставлен там, где его удаление разрушало фразу. Речь с камеры, звук экрана отключён. Настоящие графики показаны вместе с пояснениями. Лицо в таблицах перенесено влево.
 
-MP4 и архив с 22 вертикальными роликами доступны в [GitHub Release](https://github.com/gsbcode17/12331/releases/tag/price-value-natural-20261029).
+## Скачать
+
+- [Полное видео MP4](https://github.com/gsbcode17/12331/raw/refs/heads/delivery/dh-kitchen-30s/deliverables/price-value-full/v3/Price_Value_Final_1080p.mp4)
+- [Reels 01–11, ZIP](https://github.com/gsbcode17/12331/raw/refs/heads/delivery/dh-kitchen-30s/deliverables/price-value-full/v3/Reels_01-11.zip)
+- [Reels 12–22, ZIP](https://github.com/gsbcode17/12331/raw/refs/heads/delivery/dh-kitchen-30s/deliverables/price-value-full/v3/Reels_12-22.zip)
+
+Каждый архив содержит обычные MP4, индекс, описания и источники. Разрешение Reels — 1080×1920; длина — 17–82 секунды. Большой мастер сохранён в рабочей среде: `/workspace/longform-rebuild/Price_Value_Natural_Edit.mp4`.
 
 ## Главы
 

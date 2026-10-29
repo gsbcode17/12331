@@ -1,5 +1,6 @@
-import json,pathlib,subprocess,concurrent.futures,textwrap
+import json,pathlib,subprocess,concurrent.futures,textwrap,os
 r=pathlib.Path(__file__).parent;out=r/'mp4';out.mkdir(exist_ok=True);plan=json.load(open(r/'plan.json'));b=pathlib.Path('/workspace/longform-full');root=r.parent; font='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf';faces={1:'/workspace/longform-edit/assets/face-part1.mp4',2:str(b/'assets/face2.mp4')};screens={1:'/workspace/longform-edit/assets/screen-part1.mp4',2:str(b/'assets/screen2.mp4')}
+if os.environ.get('REEL_IDS'):plan=[x for x in plan if str(x['id']) in os.environ['REEL_IDS'].split(',')]
 def run(cmd,log):
  with open(log,'w') as f:p=subprocess.run(cmd,stdout=f,stderr=f)
  if p.returncode:raise RuntimeError(pathlib.Path(log).read_text()[-2000:])
@@ -20,6 +21,14 @@ def render(d):
  source=d['visual'];cmd=['ffmpeg','-v','error','-y','-threads','2','-filter_complex_threads','1','-i',str(raw),'-stream_loop','-1','-i',str(r/f'panel-{i}.mp4')]
  if source in ['screen','dual']:
   path=screens[d['part']] if source=='screen' else str(b/'assets/screen3.mp4');ss=d['ranges'][0][0] if source=='screen' else 0
+  if source=='screen' and len(d['ranges'])>1:
+   sync=r/f'screen-{i}.mp4'
+   if not sync.exists():
+    st=d['ranges'][0][0];en=d['ranges'][-1][1];sf=[]
+    for k,(a,z) in enumerate(d['ranges']):sf.append(f'[0:v]trim=start={a-st}:end={z-st},setpts=PTS-STARTPTS[s{k}]')
+    sf.append(''.join(f'[s{k}]' for k in range(len(d['ranges'])))+f'concat=n={len(d["ranges"])}:v=1:a=0,scale=1280:720[v]')
+    run(['ffmpeg','-v','error','-y','-threads','2','-filter_complex_threads','1','-ss',str(st),'-t',str(en-st),'-i',path,'-filter_complex',';'.join(sf),'-map','[v]','-an','-c:v','libx264','-preset','ultrafast','-crf','22','-threads','2',str(sync)],r/f'screen-{i}.log')
+   path=str(sync);ss=0
   cmd+=['-stream_loop','-1','-ss',str(ss),'-i',path]
  elif source in ['factory','train','stock']:
   path=root/'assets'/({'factory':'stock-factory.mp4','train':'stock-train.mp4','stock':'pexels.mp4'}[source]);cmd+=['-stream_loop','-1','-i',str(path)]
