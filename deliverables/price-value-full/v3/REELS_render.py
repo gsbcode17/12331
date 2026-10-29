@@ -18,7 +18,7 @@ def render(d):
  if target.exists():return
  heading=r/f'title-{i}.txt';heading.write_text('\n'.join(textwrap.wrap(d['heading'],width=26)))
  sub=r/f'sub-{i}.txt';sub.write_text('Подробный разбор и курс\nsemenchenko-vladyslav.com')
- source=d['visual'];cmd=['ffmpeg','-v','error','-y','-threads','2','-filter_complex_threads','1','-i',str(raw),'-stream_loop','-1','-i',str(r/f'panel-{i}.mp4')]
+ source=d['visual'];cmd=['ffmpeg','-v','error','-y','-threads','2','-filter_complex_threads','1','-i',str(raw),'-i',str(r/f'panel-{i}.mp4')]
  if source in ['screen','dual']:
   path=screens[d['part']] if source=='screen' else str(b/'assets/screen3.mp4');ss=d['ranges'][0][0] if source=='screen' else 0
   if source=='screen' and len(d['ranges'])>1:
@@ -34,8 +34,8 @@ def render(d):
   path=root/'assets'/({'factory':'stock-factory.mp4','train':'stock-train.mp4','stock':'pexels.mp4'}[source]);cmd+=['-stream_loop','-1','-i',str(path)]
  else:
   # Actual source or definition remains in the animated panel for proof topics.
-  cmd+=['-stream_loop','-1','-i',str(r/f'panel-{i}.mp4')]
- f=[f'color=c=0x10283f:s=1080x1920:r=25:d={d["duration"]}[bg]',f'[0:v]crop=1440:1080:240:0,scale=972:729,setsar=1,fps=25,tpad=stop_mode=clone:stop_duration=2[face]',f'[bg][face]overlay=54:230[layout]',f'[2:v]scale=972:576:force_original_aspect_ratio=decrease,pad=972:576:(ow-iw)/2:(oh-ih)/2:color=0xf5f7fa,setsar=1,fps=25[real]',f'[layout][real]overlay=54:1000[realbase]',f'[1:v]scale=972:576,setsar=1,fps=25[panel]',f"[realbase][panel]overlay=54:1000:enable='lt(mod(t,18),10)'[filled]",f"[filled]drawtext=fontfile={font}:textfile={heading}:fontsize=57:fontcolor=white:line_spacing=13:x=55:y=65,drawbox=x=54:y=1630:w=972:h=180:color=0x1b3b59:t=fill,drawtext=fontfile={font}:textfile={sub}:fontcolor=white:fontsize=34:line_spacing=17:x=85:y=1665,drawtext=fontfile={font}:text='Владислав Семенченко':fontcolor=0x9cc9ee:fontsize=27:x=55:y=1840,drawbox=x=54:y=965:w=972:h=4:color=0x3b759b:t=fill[v]"]
+  cmd+=['-i',str(r/f'panel-{i}.mp4')]
+ f=[f'color=c=0x10283f:s=1080x1920:r=25:d={d["duration"]}[bg]',f'[0:v]crop=1440:1080:240:0,scale=972:729,setsar=1,fps=25,tpad=stop_mode=clone:stop_duration=2[face]',f'[bg][face]overlay=54:230[layout]',f'[2:v]scale=972:576:force_original_aspect_ratio=decrease,pad=972:576:(ow-iw)/2:(oh-ih)/2:color=0xf5f7fa,setsar=1,fps=25,tpad=stop_mode=clone:stop_duration=90[real]',f'[layout][real]overlay=54:1000[realbase]',f'[1:v]scale=972:576,setsar=1,fps=25,tpad=stop_mode=clone:stop_duration=90[panel]',f"[realbase][panel]overlay=54:1000:enable='lt(mod(t,18),10)'[filled]",f"[filled]drawtext=fontfile={font}:textfile={heading}:fontsize=57:fontcolor=white:line_spacing=13:x=55:y=65,drawbox=x=54:y=1630:w=972:h=180:color=0x1b3b59:t=fill,drawtext=fontfile={font}:textfile={sub}:fontcolor=white:fontsize=34:line_spacing=17:x=85:y=1665,drawtext=fontfile={font}:text='Владислав Семенченко':fontcolor=0x9cc9ee:fontsize=27:x=55:y=1840,drawbox=x=54:y=965:w=972:h=4:color=0x3b759b:t=fill[v]"]
  cmd+=['-filter_complex',';'.join(f),'-map','[v]','-map','0:a','-af','highpass=f=65,loudnorm=I=-16:TP=-1.5:LRA=9,apad=pad_dur=2','-t',str(d['duration']),'-c:v','libx264','-crf','24','-preset','fast','-threads','2','-c:a','aac','-b:a','128k','-ar','48000','-pix_fmt','yuv420p','-r','25','-movflags','+faststart',str(target)]
  try:run(cmd,r/f'reel-{i}.log')
  except:target.unlink(missing_ok=True);raise
